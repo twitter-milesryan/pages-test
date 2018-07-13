@@ -4497,7 +4497,7 @@ button.swiper-pagination-bullet {
   .twtr-theme--purple .u01__subnav-item-link:hover { color: #794BC4; }
   .twtr-theme--pink .u01__subnav-item-link:hover { color: #E0245E; } }
 
-.u01__menu-item--pdf { display: none; border: solid 1px white; border-radius: 12px; padding: 5px 0.9375rem; margin-top: 0.25rem; }
+.u01__menu-item--pdf { display: none; border: solid 1px white; border-radius: 24px; padding: 5px 0.9375rem; margin-top: 5px; }
 
 @media (min-width: 600px) { .u01__menu-item--pdf { display: inline-block; } }
 /*------------------------------------*    $IMPORTS
